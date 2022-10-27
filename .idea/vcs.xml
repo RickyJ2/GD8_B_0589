@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GD3_B_10589/GD3_B_0589" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GD4_B_10589/data_binding_10589" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GD4_B_10589/shareP_10589" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GD4_B_10589/view_binding_10589" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/New" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SewaKendaraan" vcs="Git" />
+  </component>
+</project>
